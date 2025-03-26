@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 my test automation and career portfolio
 
 **My Automation Projects**:
