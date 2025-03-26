@@ -2,6 +2,7 @@
 my test automation and career portfolio
 
 **My Automation Projects**:
-https://github.com/navdeeptura/jenkins
+
+Jenkins server to streamline test execution: https://github.com/navdeeptura/jenkins
 
 
