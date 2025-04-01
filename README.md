@@ -1,4 +1,4 @@
-LinkedIn: linkedin.com/in/navdeeptura
+LinkedIn: linkedin.com/in/navdeeptura\
 Email: navdeeptura@gmail.com
 Current Location: Greater Toronto Area, Ontario, Canada
 
