@@ -22,7 +22,8 @@ Here are a few projects I have worked on to demonstrate my knowledge and hands-o
 - [Python-MSSQL-Pandas-Pytest](https://github.com/navdeeptura/Python-MSSQL-Pandas-Pytest)
 
 **My Skills and Experience can be found in my attached Resume:**
-[Navdeep Tura Resume.pdf](https://github.com/user-attachments/files/19553469/Navdeep.Tura.Resume.pdf)
+[Navdeep Tura Resume.pdf](https://github.com/user-attachments/files/19926512/Navdeep.Tura.Resume.pdf)
+
 
 
 
