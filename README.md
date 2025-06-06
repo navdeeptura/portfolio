@@ -16,7 +16,7 @@ I have worked on a variety of projects, including cloud-native applications, Saa
 
 **My Automation Projects - Practice**:\
 Here are a few projects I have worked on to demonstrate my knowledge and hands-on experience with popular automation tools. While these projects may not be complex, they effectively showcase my skills, and I will continue to update them to stay aligned with these technologies.
-- https://github.com/navdeeptura/Selenium-Behave-Pytest-MSSQL-Python
+- [Selenium-Pytest-MSSQL-Python](https://github.com/navdeeptura/Selenium-Behave-Pytest-MSSQL-Python).
 - [Selenium-Cucumber-BDD-Java-TestNG](https://github.com/navdeeptura/Selenium-Cucumber-BDD-Java-TestNG)
 - [Selenium-RobotFramework-Python](https://github.com/navdeeptura/Selenium-RobotFramework-Python)
 
